@@ -1,11 +1,16 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="27.1.1">
   <diagram name="Page-1" id="GokQLcG7WO0pYvgW-zJp">
-    <mxGraphModel dx="1714" dy="1616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2185" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mDrpf2TN0rHwM7id590o-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bzycmvIp5_qkG32QMUx3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bzycmvIp5_qkG32QMUx3-1" value="&lt;a href=&quot;https://copilot.microsoft.com/chats/RHDPdBvyvpDGnnrWRSW6V&quot;&gt;Microsoft Copilot: Your AI companion&lt;/a&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-570" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bzycmvIp5_qkG32QMUx3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="bzycmvIp5_qkG32QMUx3-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -16,8 +21,13 @@
           <mxGeometry x="190" y="230" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bzycmvIp5_qkG32QMUx3-4" value="&lt;p style=&quot;overflow-wrap: break-word; margin: 6px 0px 10px; max-width: none; color: rgb(66, 66, 66); font-family: &amp;quot;Segoe Sans&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(250, 250, 250);&quot;&gt;&lt;a href=&quot;https://cdn1-private.infotech.com/private_asset_archives/uploads/21969/Map-Your-Business-Architecture-to-Define-Your-Strategy.zip?Expires=1746636942&amp;amp;Signature=qb7lyRYatPvJBcTWGcS94Tm~XofcYWkefp7NIBDCYnLiJneAgGg2HeXWX5P8tQNg4sex3ENXRUD4rSU1b82uz2FGQ7qzguQDsDrNr2o6XaPWUx~dZLCHOc12usTXoMQGCdFLqt-Auya1kePpdOAIXHOYyET3RiksuI58DzGjRgHldEvC5aFtrAF8df~TyVxoGGpKZv1Ybi2bjfDafrSC33xtrxjkq8RE1dAnFZ5hbkJmfIDP9HP9rxowL7DMSwHiTIWWEvbS-edxhB40b3G1KMavXnQvdoxZWyo~ROnIO3HuZz~1dBLcHKfmVGlY9vErkpX1pkfN0GyEH71wldFdSw__&amp;amp;Key-Pair-Id=K3580I9TTO3F0A&quot;&gt;Access to this site is blocked&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;overflow-wrap: break-word; margin: 6px 0px 10px; max-width: none; color: rgb(66, 66, 66); font-family: &amp;quot;Segoe Sans&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(250, 250, 250);&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;overflow-wrap: break-word; margin: 6px 0px 10px; max-width: none; color: rgb(66, 66, 66); font-family: &amp;quot;Segoe Sans&amp;quot;, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Segoe UI Web (West European)&amp;quot;, -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(250, 250, 250);&quot;&gt;&lt;a href=&quot;https://cdn1-private.infotech.com/private_asset_archives/uploads/21969/Map-Your-Business-Architecture-to-Define-Your-Strategy.zip?Expires=1746636942&amp;amp;Signature=qb7lyRYatPvJBcTWGcS94Tm~XofcYWkefp7NIBDCYnLiJneAgGg2HeXWX5P8tQNg4sex3ENXRUD4rSU1b82uz2FGQ7qzguQDsDrNr2o6XaPWUx~dZLCHOc12usTXoMQGCdFLqt-Auya1kePpdOAIXHOYyET3RiksuI58DzGjRgHldEvC5aFtrAF8df~TyVxoGGpKZv1Ybi2bjfDafrSC33xtrxjkq8RE1dAnFZ5hbkJmfIDP9HP9rxowL7DMSwHiTIWWEvbS-edxhB40b3G1KMavXnQvdoxZWyo~ROnIO3HuZz~1dBLcHKfmVGlY9vErkpX1pkfN0GyEH71wldFdSw__&amp;amp;Key-Pair-Id=K3580I9TTO3F0A&quot;&gt;https://cdn1-private.infotech.com/private_asset_archives/uploads/21969/Map-Your-Business-Architecture-to-Define-Your-Strategy.zip?Expires=1746636942&amp;amp;Signature=qb7lyRYatPvJBcTWGcS94Tm~XofcYWkefp7NIBDCYnLiJneAgGg2HeXWX5P8tQNg4sex3ENXRUD4rSU1b82uz2FGQ7qzguQDsDrNr2o6XaPWUx~dZLCHOc12usTXoMQGCdFLqt-Auya1kePpdOAIXHOYyET3RiksuI58DzGjRgHldEvC5aFtrAF8df~TyVxoGGpKZv1Ybi2bjfDafrSC33xtrxjkq8RE1dAnFZ5hbkJmfIDP9HP9rxowL7DMSwHiTIWWEvbS-edxhB40b3G1KMavXnQvdoxZWyo~ROnIO3HuZz~1dBLcHKfmVGlY9vErkpX1pkfN0GyEH71wldFdSw__&amp;amp;Key-Pair-Id=K3580I9TTO3F0A&lt;/a&gt;&lt;/p&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="20" width="540" height="80" as="geometry" />
+          <mxGeometry x="-250" y="-100" width="540" height="80" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;a href=&quot;https://copilot.microsoft.com/chats/JqHc8RptQ13gpEXchTr1t&quot;&gt;Microsoft Copilot: Your AI companion&lt;/a&gt;" link="&#xa;&lt;a href=&quot;https://copilot.microsoft.com/chats/JqHc8RptQ13gpEXchTr1t&quot;&gt;Microsoft Copilot: Your AI companion&lt;/a&gt;&#xa;&#xa;" id="mDrpf2TN0rHwM7id590o-2">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-540" y="80" width="600" height="80" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
